@@ -1,0 +1,243 @@
+{
+  "heading": "Predicate Quiz",
+  "topics": [
+    {
+      "heading": "Subjects and Predicates",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "The complete predicate of 'Our team excitedly celebrated their victory' is:",
+          "options": [
+            "excitedly",
+            "celebrated their victory",
+            "excitedly celebrated their victory",
+            "their victory"
+          ],
+          "answer": 2,
+          "explanation": "The complete predicate includes the verb, adverb, and object."
+        },
+        {
+          "questionNo": 2,
+          "question": "A predicate can be a single adjective.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "A predicate must contain a verb, while an adjective is a describing word."
+        },
+        {
+          "questionNo": 3,
+          "question": "The subject and predicate together make up a _____ sentence.",
+          "options": [
+            "complex",
+            "compound",
+            "complete",
+            "simple"
+          ],
+          "answer": 2,
+          "explanation": "A sentence requires both a subject and predicate to be considered complete."
+        },
+        {
+          "questionNo": 4,
+          "question": "In 'The artist's brushstrokes transformed the blank canvas,' the compound subject is:",
+          "options": [
+            "The artist's brushstrokes",
+            "transformed the blank canvas",
+            "The artist's",
+            "brushstrokes transformed"
+          ],
+          "answer": 0,
+          "explanation": "'The artist's brushstrokes' contains two joined noun phrases as the subject."
+        },
+        {
+          "questionNo": 5,
+          "question": "'Neither the sun _____ the clouds moved' is missing which part?",
+          "options": [
+            "predicate",
+            "subject",
+            "none of the above"
+          ],
+          "answer": 1,
+          "explanation": "This sentence lacks a verb or predicate to complete the thought."
+        },
+        {
+          "questionNo": 6,
+          "question": "The compound predicate in 'She hummed a tune and danced gracefully' is:",
+          "options": [
+            "hummed",
+            "danced gracefully",
+            "hummed a tune and danced gracefully",
+            "a tune"
+          ],
+          "answer": 2,
+          "explanation": "The two verb phrases joined by 'and' form the compound predicate."
+        },
+        {
+          "questionNo": 7,
+          "question": "In 'The waves gently lapped against the shore,' the predicate is:",
+          "options": [
+            "lapped against the shore",
+            "gently",
+            "waves",
+            "gently lapped against the shore"
+          ],
+          "answer": 3,
+          "explanation": "The complete predicate shows the verb and additional details."
+        },
+        {
+          "questionNo": 8,
+          "question": "What is the simple predicate in the following sentence? 'The curious child carefully observed the colourful butterfly.'",
+          "options": [
+            "The curious child",
+            "observed",
+            "the colourful butterfly",
+            "carefully observed the colourful butterfly"
+          ],
+          "answer": 1,
+          "explanation": "The simple predicate is the main verb or verb phrase that expresses the action or state of being in the sentence. In the given sentence, the main verb is 'observed,' which describes the action performed by the subject ('The curious child')."
+        },
+        {
+          "questionNo": 9,
+          "question": "The subject of 'Thunder rumbled while lightning danced across the sky' is:",
+          "options": [
+            "rumbled",
+            "Thunder",
+            "while lightning danced across the sky",
+            "Thunder rumbled"
+          ],
+          "answer": 1,
+          "explanation": "The noun 'Thunder' is the subject about which we are giving additional information."
+        },
+        {
+          "questionNo": 10,
+          "question": "A/An _____ subject contains two or more nouns.",
+          "options": [
+            "double",
+            "plural",
+            "single",
+            "compound"
+          ],
+          "answer": 3,
+          "explanation": "A compound subject is made up of multiple joined noun subjects."
+        },
+        {
+          "questionNo": 11,
+          "question": "'Reading books and exploring nature _____ his favourite hobbies' needs which part?",
+          "options": [
+            "were",
+            "is",
+            "subject",
+            "none of the above"
+          ],
+          "answer": 0,
+          "explanation": "This sentence requires the verb 'were' to complete the predicate."
+        },
+        {
+          "questionNo": 12,
+          "question": "Pronouns like 'it' or 'they' cannot be the subject of a sentence.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "Pronouns can act as subjects in sentences. For example: It is raining outside."
+        },
+        {
+          "questionNo": 13,
+          "question": "The compound subject in 'Both the teacher and the students arrived early' is:",
+          "options": [
+            "Both",
+            "arrived early",
+            "the teacher and the students",
+            "the teacher"
+          ],
+          "answer": 2,
+          "explanation": "The two nouns joined by 'and' form the compound subject."
+        },
+        {
+          "questionNo": 14,
+          "question": "The predicate of 'My grandmother knitted warm scarves for our family' is:",
+          "options": [
+            "knitted",
+            "warm scarves",
+            "knitted warm scarves",
+            "knitted warm scarves for our family"
+          ],
+          "answer": 3,
+          "explanation": "The full predicate includes the verb, objects, and other details."
+        },
+        {
+          "questionNo": 15,
+          "question": "Select the most appropriate predicate: The flowers _________.",
+          "options": [
+            "bloom in the spring",
+            "are very colourful",
+            "need watering",
+            "All of the above"
+          ],
+          "answer": 3,
+          "explanation": "All the given options complete the meaning of the sentence concerning the subject."
+        },
+        {
+          "questionNo": 16,
+          "question": "In 'The talented musician effortlessly played several instruments,' the subject 'The talented musician' is:",
+          "options": [
+            "simple",
+            "complete"
+          ],
+          "answer": 1,
+          "explanation": "A complete subject is a noun or noun phrase that includes all the words that modify or describe the subject. In this case, 'The talented musician' is a noun phrase that includes both the noun 'musician' and the modifying adjective 'talented.'"
+        },
+        {
+          "questionNo": 17,
+          "question": "'_______ prepared unique dishes for the special event' needs which part?",
+          "options": [
+            "Subject",
+            "Predicate",
+            "Adjective",
+            "All of the above"
+          ],
+          "answer": 0,
+          "explanation": "In this sentence, there is no noun or noun phrase provided to act as the subject, which is the part that tells us who or what the sentence is about."
+        },
+        {
+          "questionNo": 18,
+          "question": "'Firefighters _____ the burning building' needs which part?",
+          "options": [
+            "Subject",
+            "Predicate",
+            "Noun",
+            "Adjective"
+          ],
+          "answer": 1,
+          "explanation": "A verb like 'entered' or 'evacuated' is needed as the predicate."
+        },
+        {
+          "questionNo": 19,
+          "question": "In the sentence 'Beneath the shady tree, a family picnicked on a warm afternoon,' the complete predicate is:",
+          "options": [
+            "picnicked",
+            "picnicked on a warm afternoon",
+            "Beneath the shady tree",
+            "a family picnicked on a warm afternoon"
+          ],
+          "answer": 3,
+          "explanation": "The full predicate includes the verb 'picnicked' along with the details 'on a warm afternoon' describing when and where the action took place."
+        },
+        {
+          "questionNo": 20,
+          "question": "The compound predicate in 'He laughed joyfully and clapped his hands' is:",
+          "options": [
+            "laughed",
+            "clapped his hands",
+            "joyfully",
+            "laughed joyfully and clapped his hands"
+          ],
+          "answer": 3,
+          "explanation": "The two verb phrases joined by 'and' create the compound predicate."
+        }
+      ]
+    }
+  ]
+}
